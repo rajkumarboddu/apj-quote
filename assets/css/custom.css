@@ -1,0 +1,48 @@
+.fs-small {
+    font-size: small;
+}
+.p-q-btn {
+    font-size: 0.7em;
+}
+.update-price-input {
+    width: 60px;
+    font-size: 14px;
+}
+.rupee-sign {
+    color: #666;
+    font-size: small;
+}
+.product-img-preview {
+    display: block;
+    max-width:100%;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+}
+.p-card-img-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.p-card-img{
+    display: block;
+    max-width:100%;
+    max-height:100px;
+    width: auto;
+    height: auto;
+}
+.p-quote-img {
+    display: block;
+    max-width:100%;
+    max-height:250px;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+}
+.p-edit-btn {
+    position: absolute;
+    right: 6px;
+    top: 5px;
+    z-index: 99;
+}
